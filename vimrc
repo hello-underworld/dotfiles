@@ -10,7 +10,8 @@ call vundle#begin()
 " let Vundle manage Vundle, required
 Plugin 'VundleVim/Vundle.vim'
 
-
+" this is a colorscheme plugin
+Plugin 'sjl/badwolf'
 
 
 
@@ -33,3 +34,4 @@ filetype plugin indent on    " required
 
 set nu
 set ruler
+
