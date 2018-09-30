@@ -1,3 +1,4 @@
+syntax on
 set nocompatible              " be iMproved, required
 filetype off                  " required
 
@@ -34,4 +35,4 @@ filetype plugin indent on    " required
 
 set nu
 set ruler
-
+set t_Co=256
