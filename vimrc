@@ -9,7 +9,7 @@ call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 
 " this is a colorscheme plugin
-Plugin 'sjl/badwolf'
+Plugin 'flazz/vim-colorschemes'
 
 " this is a minimap
 " Type Minimap in command line to open the minimap
@@ -39,3 +39,5 @@ set cmdheight=2
 " Turn on incremental search
 set incsearch
 
+" Change the colorscheme, using flazz
+colorscheme molokai
