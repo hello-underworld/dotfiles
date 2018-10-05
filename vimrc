@@ -11,6 +11,9 @@ Plugin 'VundleVim/Vundle.vim'
 " this is a colorscheme plugin
 Plugin 'sjl/badwolf'
 
+" this is a minimap
+" Type Minimap in command line to open the minimap
+Plugin 'severin-lemaignan/vim-minimap'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
@@ -35,3 +38,4 @@ set cmdheight=2
 
 " Turn on incremental search
 set incsearch
+
