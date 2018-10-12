@@ -41,3 +41,4 @@ set incsearch
 
 " Change the colorscheme, using flazz
 colorscheme molokai
+
